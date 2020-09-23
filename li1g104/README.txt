@@ -1,7 +1,6 @@
-a1 - Numero:
-66655     Nome:Paulo Diogo LourenÁo Martins
+a1 - Numero: 66655     
+     Nome:Paulo Diogo Louren√ßo Martins
 
 
-a2 - Numero:65277
-     Nome:
-Fl·vio Manuel Machado Martins
+a2 - Numero: 65277
+     Nome: Fl√°vio Manuel Machado Martins
